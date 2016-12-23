@@ -54,3 +54,10 @@ In order to be able to post on Twitter, you need to grant access of your applica
 5. Create your access token (to post a tweet, you need at least "Read and Write" access)
 6. Get your consumer_key, consumer_secret, access_token_key and access_token_secret from the tab "Key and access token" (Keep them secret !)
 7. Post your first message with this neuron !
+
+## License
+
+Copyright (c) 2016. All rights reserved.
+
+Kalliope is covered by the MIT license, a permissive free software license that lets you do anything you want with the source code, 
+as long as you provide back attribution and ["don't hold you liable"](http://choosealicense.com/). For the full license text see the [LICENSE.md](LICENSE.md) file.
