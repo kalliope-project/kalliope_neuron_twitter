@@ -6,7 +6,7 @@ This neuron allows you to send a tweet on your timeline.
 
 ## Installation
 ```
-kalliope install --git-url "https://github.com/kalliope-project/kalliope_neuron_twitter.git"
+kalliope install --git-url https://github.com/kalliope-project/kalliope_neuron_twitter.git
 ```
 
 ## Options
