@@ -35,8 +35,7 @@ kalliope install --git-url https://github.com/kalliope-project/kalliope_neuron_t
         consumer_secret: ""
         access_token_key: ""
         access_token_secret: ""
-        args:
-          - tweet
+        tweet: "{{ tweet }}"
   signals:
     - order: "post on Twitter {{ tweet }}"
 ```
